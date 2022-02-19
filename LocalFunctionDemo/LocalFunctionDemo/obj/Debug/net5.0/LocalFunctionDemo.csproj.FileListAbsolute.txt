@@ -1,0 +1,16 @@
+E:\HocCSharp\LocalFunctionDemo\LocalFunctionDemo\bin\Debug\net5.0\LocalFunctionDemo.exe
+E:\HocCSharp\LocalFunctionDemo\LocalFunctionDemo\bin\Debug\net5.0\LocalFunctionDemo.deps.json
+E:\HocCSharp\LocalFunctionDemo\LocalFunctionDemo\bin\Debug\net5.0\LocalFunctionDemo.runtimeconfig.json
+E:\HocCSharp\LocalFunctionDemo\LocalFunctionDemo\bin\Debug\net5.0\LocalFunctionDemo.runtimeconfig.dev.json
+E:\HocCSharp\LocalFunctionDemo\LocalFunctionDemo\bin\Debug\net5.0\LocalFunctionDemo.dll
+E:\HocCSharp\LocalFunctionDemo\LocalFunctionDemo\bin\Debug\net5.0\ref\LocalFunctionDemo.dll
+E:\HocCSharp\LocalFunctionDemo\LocalFunctionDemo\bin\Debug\net5.0\LocalFunctionDemo.pdb
+E:\HocCSharp\LocalFunctionDemo\LocalFunctionDemo\obj\Debug\net5.0\LocalFunctionDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\LocalFunctionDemo\LocalFunctionDemo\obj\Debug\net5.0\LocalFunctionDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\LocalFunctionDemo\LocalFunctionDemo\obj\Debug\net5.0\LocalFunctionDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\LocalFunctionDemo\LocalFunctionDemo\obj\Debug\net5.0\LocalFunctionDemo.AssemblyInfo.cs
+E:\HocCSharp\LocalFunctionDemo\LocalFunctionDemo\obj\Debug\net5.0\LocalFunctionDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\LocalFunctionDemo\LocalFunctionDemo\obj\Debug\net5.0\LocalFunctionDemo.dll
+E:\HocCSharp\LocalFunctionDemo\LocalFunctionDemo\obj\Debug\net5.0\ref\LocalFunctionDemo.dll
+E:\HocCSharp\LocalFunctionDemo\LocalFunctionDemo\obj\Debug\net5.0\LocalFunctionDemo.pdb
+E:\HocCSharp\LocalFunctionDemo\LocalFunctionDemo\obj\Debug\net5.0\LocalFunctionDemo.genruntimeconfig.cache

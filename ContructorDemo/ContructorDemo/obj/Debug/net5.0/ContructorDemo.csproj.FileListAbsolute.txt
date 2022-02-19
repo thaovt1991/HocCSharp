@@ -1,0 +1,16 @@
+E:\HocCSharp\ContructorDemo\ContructorDemo\bin\Debug\net5.0\ContructorDemo.exe
+E:\HocCSharp\ContructorDemo\ContructorDemo\bin\Debug\net5.0\ContructorDemo.deps.json
+E:\HocCSharp\ContructorDemo\ContructorDemo\bin\Debug\net5.0\ContructorDemo.runtimeconfig.json
+E:\HocCSharp\ContructorDemo\ContructorDemo\bin\Debug\net5.0\ContructorDemo.runtimeconfig.dev.json
+E:\HocCSharp\ContructorDemo\ContructorDemo\bin\Debug\net5.0\ContructorDemo.dll
+E:\HocCSharp\ContructorDemo\ContructorDemo\bin\Debug\net5.0\ref\ContructorDemo.dll
+E:\HocCSharp\ContructorDemo\ContructorDemo\bin\Debug\net5.0\ContructorDemo.pdb
+E:\HocCSharp\ContructorDemo\ContructorDemo\obj\Debug\net5.0\ContructorDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\ContructorDemo\ContructorDemo\obj\Debug\net5.0\ContructorDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\ContructorDemo\ContructorDemo\obj\Debug\net5.0\ContructorDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\ContructorDemo\ContructorDemo\obj\Debug\net5.0\ContructorDemo.AssemblyInfo.cs
+E:\HocCSharp\ContructorDemo\ContructorDemo\obj\Debug\net5.0\ContructorDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\ContructorDemo\ContructorDemo\obj\Debug\net5.0\ContructorDemo.dll
+E:\HocCSharp\ContructorDemo\ContructorDemo\obj\Debug\net5.0\ref\ContructorDemo.dll
+E:\HocCSharp\ContructorDemo\ContructorDemo\obj\Debug\net5.0\ContructorDemo.pdb
+E:\HocCSharp\ContructorDemo\ContructorDemo\obj\Debug\net5.0\ContructorDemo.genruntimeconfig.cache

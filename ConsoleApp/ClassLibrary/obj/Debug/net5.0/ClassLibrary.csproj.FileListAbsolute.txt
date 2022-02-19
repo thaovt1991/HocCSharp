@@ -1,0 +1,11 @@
+E:\HocCSharp\ConsoleApp\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+E:\HocCSharp\ConsoleApp\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+E:\HocCSharp\ConsoleApp\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+E:\HocCSharp\ConsoleApp\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+E:\HocCSharp\ConsoleApp\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\ConsoleApp\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+E:\HocCSharp\ConsoleApp\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+E:\HocCSharp\ConsoleApp\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\HocCSharp\ConsoleApp\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+E:\HocCSharp\ConsoleApp\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+E:\HocCSharp\ConsoleApp\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb

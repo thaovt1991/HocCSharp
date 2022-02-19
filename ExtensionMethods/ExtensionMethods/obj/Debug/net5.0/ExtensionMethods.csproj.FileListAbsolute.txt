@@ -1,0 +1,16 @@
+E:\HocCSharp\ExtensionMethods\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.exe
+E:\HocCSharp\ExtensionMethods\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.deps.json
+E:\HocCSharp\ExtensionMethods\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.runtimeconfig.json
+E:\HocCSharp\ExtensionMethods\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.runtimeconfig.dev.json
+E:\HocCSharp\ExtensionMethods\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.dll
+E:\HocCSharp\ExtensionMethods\ExtensionMethods\bin\Debug\net5.0\ref\ExtensionMethods.dll
+E:\HocCSharp\ExtensionMethods\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.pdb
+E:\HocCSharp\ExtensionMethods\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.csproj.AssemblyReference.cache
+E:\HocCSharp\ExtensionMethods\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\ExtensionMethods\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.AssemblyInfoInputs.cache
+E:\HocCSharp\ExtensionMethods\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.AssemblyInfo.cs
+E:\HocCSharp\ExtensionMethods\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+E:\HocCSharp\ExtensionMethods\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.dll
+E:\HocCSharp\ExtensionMethods\ExtensionMethods\obj\Debug\net5.0\ref\ExtensionMethods.dll
+E:\HocCSharp\ExtensionMethods\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.pdb
+E:\HocCSharp\ExtensionMethods\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.genruntimeconfig.cache

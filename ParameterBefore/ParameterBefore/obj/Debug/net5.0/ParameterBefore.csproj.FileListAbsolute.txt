@@ -1,0 +1,15 @@
+E:\HocCSharp\ParameterBefore\ParameterBefore\obj\Debug\net5.0\ParameterBefore.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\ParameterBefore\ParameterBefore\obj\Debug\net5.0\ParameterBefore.AssemblyInfoInputs.cache
+E:\HocCSharp\ParameterBefore\ParameterBefore\obj\Debug\net5.0\ParameterBefore.AssemblyInfo.cs
+E:\HocCSharp\ParameterBefore\ParameterBefore\obj\Debug\net5.0\ParameterBefore.csproj.CoreCompileInputs.cache
+E:\HocCSharp\ParameterBefore\ParameterBefore\bin\Debug\net5.0\ParameterBefore.exe
+E:\HocCSharp\ParameterBefore\ParameterBefore\bin\Debug\net5.0\ParameterBefore.deps.json
+E:\HocCSharp\ParameterBefore\ParameterBefore\bin\Debug\net5.0\ParameterBefore.runtimeconfig.json
+E:\HocCSharp\ParameterBefore\ParameterBefore\bin\Debug\net5.0\ParameterBefore.runtimeconfig.dev.json
+E:\HocCSharp\ParameterBefore\ParameterBefore\bin\Debug\net5.0\ParameterBefore.dll
+E:\HocCSharp\ParameterBefore\ParameterBefore\bin\Debug\net5.0\ref\ParameterBefore.dll
+E:\HocCSharp\ParameterBefore\ParameterBefore\bin\Debug\net5.0\ParameterBefore.pdb
+E:\HocCSharp\ParameterBefore\ParameterBefore\obj\Debug\net5.0\ParameterBefore.dll
+E:\HocCSharp\ParameterBefore\ParameterBefore\obj\Debug\net5.0\ref\ParameterBefore.dll
+E:\HocCSharp\ParameterBefore\ParameterBefore\obj\Debug\net5.0\ParameterBefore.pdb
+E:\HocCSharp\ParameterBefore\ParameterBefore\obj\Debug\net5.0\ParameterBefore.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\HocCSharp\Hiding\Hiding\obj\Debug\net5.0\Hiding.csproj.AssemblyReference.cache
+E:\HocCSharp\Hiding\Hiding\obj\Debug\net5.0\Hiding.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\Hiding\Hiding\obj\Debug\net5.0\Hiding.AssemblyInfoInputs.cache
+E:\HocCSharp\Hiding\Hiding\obj\Debug\net5.0\Hiding.AssemblyInfo.cs
+E:\HocCSharp\Hiding\Hiding\obj\Debug\net5.0\Hiding.csproj.CoreCompileInputs.cache
+E:\HocCSharp\Hiding\Hiding\bin\Debug\net5.0\Hiding.exe
+E:\HocCSharp\Hiding\Hiding\bin\Debug\net5.0\Hiding.deps.json
+E:\HocCSharp\Hiding\Hiding\bin\Debug\net5.0\Hiding.runtimeconfig.json
+E:\HocCSharp\Hiding\Hiding\bin\Debug\net5.0\Hiding.runtimeconfig.dev.json
+E:\HocCSharp\Hiding\Hiding\bin\Debug\net5.0\Hiding.dll
+E:\HocCSharp\Hiding\Hiding\bin\Debug\net5.0\ref\Hiding.dll
+E:\HocCSharp\Hiding\Hiding\bin\Debug\net5.0\Hiding.pdb
+E:\HocCSharp\Hiding\Hiding\obj\Debug\net5.0\Hiding.dll
+E:\HocCSharp\Hiding\Hiding\obj\Debug\net5.0\ref\Hiding.dll
+E:\HocCSharp\Hiding\Hiding\obj\Debug\net5.0\Hiding.pdb
+E:\HocCSharp\Hiding\Hiding\obj\Debug\net5.0\Hiding.genruntimeconfig.cache

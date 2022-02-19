@@ -1,0 +1,16 @@
+E:\HocCSharp\CheckedUncheckedDemo\CheckedUncheckedDemo\bin\Debug\net5.0\CheckedUncheckedDemo.exe
+E:\HocCSharp\CheckedUncheckedDemo\CheckedUncheckedDemo\bin\Debug\net5.0\CheckedUncheckedDemo.deps.json
+E:\HocCSharp\CheckedUncheckedDemo\CheckedUncheckedDemo\bin\Debug\net5.0\CheckedUncheckedDemo.runtimeconfig.json
+E:\HocCSharp\CheckedUncheckedDemo\CheckedUncheckedDemo\bin\Debug\net5.0\CheckedUncheckedDemo.runtimeconfig.dev.json
+E:\HocCSharp\CheckedUncheckedDemo\CheckedUncheckedDemo\bin\Debug\net5.0\CheckedUncheckedDemo.dll
+E:\HocCSharp\CheckedUncheckedDemo\CheckedUncheckedDemo\bin\Debug\net5.0\ref\CheckedUncheckedDemo.dll
+E:\HocCSharp\CheckedUncheckedDemo\CheckedUncheckedDemo\bin\Debug\net5.0\CheckedUncheckedDemo.pdb
+E:\HocCSharp\CheckedUncheckedDemo\CheckedUncheckedDemo\obj\Debug\net5.0\CheckedUncheckedDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\CheckedUncheckedDemo\CheckedUncheckedDemo\obj\Debug\net5.0\CheckedUncheckedDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\CheckedUncheckedDemo\CheckedUncheckedDemo\obj\Debug\net5.0\CheckedUncheckedDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\CheckedUncheckedDemo\CheckedUncheckedDemo\obj\Debug\net5.0\CheckedUncheckedDemo.AssemblyInfo.cs
+E:\HocCSharp\CheckedUncheckedDemo\CheckedUncheckedDemo\obj\Debug\net5.0\CheckedUncheckedDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\CheckedUncheckedDemo\CheckedUncheckedDemo\obj\Debug\net5.0\CheckedUncheckedDemo.dll
+E:\HocCSharp\CheckedUncheckedDemo\CheckedUncheckedDemo\obj\Debug\net5.0\ref\CheckedUncheckedDemo.dll
+E:\HocCSharp\CheckedUncheckedDemo\CheckedUncheckedDemo\obj\Debug\net5.0\CheckedUncheckedDemo.pdb
+E:\HocCSharp\CheckedUncheckedDemo\CheckedUncheckedDemo\obj\Debug\net5.0\CheckedUncheckedDemo.genruntimeconfig.cache

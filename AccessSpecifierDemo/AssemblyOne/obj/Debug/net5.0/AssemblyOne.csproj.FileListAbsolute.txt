@@ -1,0 +1,12 @@
+E:\HocCSharp\AccessSpecifierDemo\AssemblyOne\bin\Debug\net5.0\AssemblyOne.deps.json
+E:\HocCSharp\AccessSpecifierDemo\AssemblyOne\bin\Debug\net5.0\AssemblyOne.dll
+E:\HocCSharp\AccessSpecifierDemo\AssemblyOne\bin\Debug\net5.0\ref\AssemblyOne.dll
+E:\HocCSharp\AccessSpecifierDemo\AssemblyOne\bin\Debug\net5.0\AssemblyOne.pdb
+E:\HocCSharp\AccessSpecifierDemo\AssemblyOne\obj\Debug\net5.0\AssemblyOne.csproj.AssemblyReference.cache
+E:\HocCSharp\AccessSpecifierDemo\AssemblyOne\obj\Debug\net5.0\AssemblyOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\AccessSpecifierDemo\AssemblyOne\obj\Debug\net5.0\AssemblyOne.AssemblyInfoInputs.cache
+E:\HocCSharp\AccessSpecifierDemo\AssemblyOne\obj\Debug\net5.0\AssemblyOne.AssemblyInfo.cs
+E:\HocCSharp\AccessSpecifierDemo\AssemblyOne\obj\Debug\net5.0\AssemblyOne.csproj.CoreCompileInputs.cache
+E:\HocCSharp\AccessSpecifierDemo\AssemblyOne\obj\Debug\net5.0\AssemblyOne.dll
+E:\HocCSharp\AccessSpecifierDemo\AssemblyOne\obj\Debug\net5.0\ref\AssemblyOne.dll
+E:\HocCSharp\AccessSpecifierDemo\AssemblyOne\obj\Debug\net5.0\AssemblyOne.pdb

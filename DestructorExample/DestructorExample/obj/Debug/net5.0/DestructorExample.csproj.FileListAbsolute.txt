@@ -1,0 +1,16 @@
+E:\HocCSharp\DestructorExample\DestructorExample\bin\Debug\net5.0\DestructorExample.exe
+E:\HocCSharp\DestructorExample\DestructorExample\bin\Debug\net5.0\DestructorExample.deps.json
+E:\HocCSharp\DestructorExample\DestructorExample\bin\Debug\net5.0\DestructorExample.runtimeconfig.json
+E:\HocCSharp\DestructorExample\DestructorExample\bin\Debug\net5.0\DestructorExample.runtimeconfig.dev.json
+E:\HocCSharp\DestructorExample\DestructorExample\bin\Debug\net5.0\DestructorExample.dll
+E:\HocCSharp\DestructorExample\DestructorExample\bin\Debug\net5.0\ref\DestructorExample.dll
+E:\HocCSharp\DestructorExample\DestructorExample\bin\Debug\net5.0\DestructorExample.pdb
+E:\HocCSharp\DestructorExample\DestructorExample\obj\Debug\net5.0\DestructorExample.csproj.AssemblyReference.cache
+E:\HocCSharp\DestructorExample\DestructorExample\obj\Debug\net5.0\DestructorExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\DestructorExample\DestructorExample\obj\Debug\net5.0\DestructorExample.AssemblyInfoInputs.cache
+E:\HocCSharp\DestructorExample\DestructorExample\obj\Debug\net5.0\DestructorExample.AssemblyInfo.cs
+E:\HocCSharp\DestructorExample\DestructorExample\obj\Debug\net5.0\DestructorExample.csproj.CoreCompileInputs.cache
+E:\HocCSharp\DestructorExample\DestructorExample\obj\Debug\net5.0\DestructorExample.dll
+E:\HocCSharp\DestructorExample\DestructorExample\obj\Debug\net5.0\ref\DestructorExample.dll
+E:\HocCSharp\DestructorExample\DestructorExample\obj\Debug\net5.0\DestructorExample.pdb
+E:\HocCSharp\DestructorExample\DestructorExample\obj\Debug\net5.0\DestructorExample.genruntimeconfig.cache

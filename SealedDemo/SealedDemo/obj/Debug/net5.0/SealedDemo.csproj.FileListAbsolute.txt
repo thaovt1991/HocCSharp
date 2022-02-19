@@ -1,0 +1,16 @@
+E:\HocCSharp\SealedDemo\SealedDemo\bin\Debug\net5.0\SealedDemo.exe
+E:\HocCSharp\SealedDemo\SealedDemo\bin\Debug\net5.0\SealedDemo.deps.json
+E:\HocCSharp\SealedDemo\SealedDemo\bin\Debug\net5.0\SealedDemo.runtimeconfig.json
+E:\HocCSharp\SealedDemo\SealedDemo\bin\Debug\net5.0\SealedDemo.runtimeconfig.dev.json
+E:\HocCSharp\SealedDemo\SealedDemo\bin\Debug\net5.0\SealedDemo.dll
+E:\HocCSharp\SealedDemo\SealedDemo\bin\Debug\net5.0\ref\SealedDemo.dll
+E:\HocCSharp\SealedDemo\SealedDemo\bin\Debug\net5.0\SealedDemo.pdb
+E:\HocCSharp\SealedDemo\SealedDemo\obj\Debug\net5.0\SealedDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\SealedDemo\SealedDemo\obj\Debug\net5.0\SealedDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\SealedDemo\SealedDemo\obj\Debug\net5.0\SealedDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\SealedDemo\SealedDemo\obj\Debug\net5.0\SealedDemo.AssemblyInfo.cs
+E:\HocCSharp\SealedDemo\SealedDemo\obj\Debug\net5.0\SealedDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\SealedDemo\SealedDemo\obj\Debug\net5.0\SealedDemo.dll
+E:\HocCSharp\SealedDemo\SealedDemo\obj\Debug\net5.0\ref\SealedDemo.dll
+E:\HocCSharp\SealedDemo\SealedDemo\obj\Debug\net5.0\SealedDemo.pdb
+E:\HocCSharp\SealedDemo\SealedDemo\obj\Debug\net5.0\SealedDemo.genruntimeconfig.cache

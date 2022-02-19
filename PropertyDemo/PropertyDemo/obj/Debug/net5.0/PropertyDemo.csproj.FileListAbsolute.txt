@@ -1,0 +1,16 @@
+E:\HocCSharp\PropertyDemo\PropertyDemo\bin\Debug\net5.0\PropertyDemo.exe
+E:\HocCSharp\PropertyDemo\PropertyDemo\bin\Debug\net5.0\PropertyDemo.deps.json
+E:\HocCSharp\PropertyDemo\PropertyDemo\bin\Debug\net5.0\PropertyDemo.runtimeconfig.json
+E:\HocCSharp\PropertyDemo\PropertyDemo\bin\Debug\net5.0\PropertyDemo.runtimeconfig.dev.json
+E:\HocCSharp\PropertyDemo\PropertyDemo\bin\Debug\net5.0\PropertyDemo.dll
+E:\HocCSharp\PropertyDemo\PropertyDemo\bin\Debug\net5.0\ref\PropertyDemo.dll
+E:\HocCSharp\PropertyDemo\PropertyDemo\bin\Debug\net5.0\PropertyDemo.pdb
+E:\HocCSharp\PropertyDemo\PropertyDemo\obj\Debug\net5.0\PropertyDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\PropertyDemo\PropertyDemo\obj\Debug\net5.0\PropertyDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\PropertyDemo\PropertyDemo\obj\Debug\net5.0\PropertyDemo.AssemblyInfo.cs
+E:\HocCSharp\PropertyDemo\PropertyDemo\obj\Debug\net5.0\PropertyDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\PropertyDemo\PropertyDemo\obj\Debug\net5.0\PropertyDemo.dll
+E:\HocCSharp\PropertyDemo\PropertyDemo\obj\Debug\net5.0\ref\PropertyDemo.dll
+E:\HocCSharp\PropertyDemo\PropertyDemo\obj\Debug\net5.0\PropertyDemo.pdb
+E:\HocCSharp\PropertyDemo\PropertyDemo\obj\Debug\net5.0\PropertyDemo.genruntimeconfig.cache
+E:\HocCSharp\PropertyDemo\PropertyDemo\obj\Debug\net5.0\PropertyDemo.csproj.AssemblyReference.cache

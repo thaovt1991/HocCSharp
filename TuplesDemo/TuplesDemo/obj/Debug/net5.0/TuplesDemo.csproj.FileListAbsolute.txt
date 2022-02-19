@@ -1,0 +1,16 @@
+E:\HocCSharp\TuplesDemo\TuplesDemo\obj\Debug\net5.0\TuplesDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\TuplesDemo\TuplesDemo\obj\Debug\net5.0\TuplesDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\TuplesDemo\TuplesDemo\obj\Debug\net5.0\TuplesDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\TuplesDemo\TuplesDemo\obj\Debug\net5.0\TuplesDemo.AssemblyInfo.cs
+E:\HocCSharp\TuplesDemo\TuplesDemo\obj\Debug\net5.0\TuplesDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\TuplesDemo\TuplesDemo\bin\Debug\net5.0\TuplesDemo.exe
+E:\HocCSharp\TuplesDemo\TuplesDemo\bin\Debug\net5.0\TuplesDemo.deps.json
+E:\HocCSharp\TuplesDemo\TuplesDemo\bin\Debug\net5.0\TuplesDemo.runtimeconfig.json
+E:\HocCSharp\TuplesDemo\TuplesDemo\bin\Debug\net5.0\TuplesDemo.runtimeconfig.dev.json
+E:\HocCSharp\TuplesDemo\TuplesDemo\bin\Debug\net5.0\TuplesDemo.dll
+E:\HocCSharp\TuplesDemo\TuplesDemo\bin\Debug\net5.0\ref\TuplesDemo.dll
+E:\HocCSharp\TuplesDemo\TuplesDemo\bin\Debug\net5.0\TuplesDemo.pdb
+E:\HocCSharp\TuplesDemo\TuplesDemo\obj\Debug\net5.0\TuplesDemo.dll
+E:\HocCSharp\TuplesDemo\TuplesDemo\obj\Debug\net5.0\ref\TuplesDemo.dll
+E:\HocCSharp\TuplesDemo\TuplesDemo\obj\Debug\net5.0\TuplesDemo.pdb
+E:\HocCSharp\TuplesDemo\TuplesDemo\obj\Debug\net5.0\TuplesDemo.genruntimeconfig.cache

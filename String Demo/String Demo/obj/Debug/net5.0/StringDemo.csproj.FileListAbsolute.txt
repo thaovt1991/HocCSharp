@@ -1,0 +1,15 @@
+E:\HocCSharp\String Demo\String Demo\bin\Debug\net5.0\StringDemo.exe
+E:\HocCSharp\String Demo\String Demo\bin\Debug\net5.0\StringDemo.deps.json
+E:\HocCSharp\String Demo\String Demo\bin\Debug\net5.0\StringDemo.runtimeconfig.json
+E:\HocCSharp\String Demo\String Demo\bin\Debug\net5.0\StringDemo.runtimeconfig.dev.json
+E:\HocCSharp\String Demo\String Demo\bin\Debug\net5.0\StringDemo.dll
+E:\HocCSharp\String Demo\String Demo\bin\Debug\net5.0\ref\StringDemo.dll
+E:\HocCSharp\String Demo\String Demo\bin\Debug\net5.0\StringDemo.pdb
+E:\HocCSharp\String Demo\String Demo\obj\Debug\net5.0\StringDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\String Demo\String Demo\obj\Debug\net5.0\StringDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\String Demo\String Demo\obj\Debug\net5.0\StringDemo.AssemblyInfo.cs
+E:\HocCSharp\String Demo\String Demo\obj\Debug\net5.0\StringDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\String Demo\String Demo\obj\Debug\net5.0\StringDemo.dll
+E:\HocCSharp\String Demo\String Demo\obj\Debug\net5.0\ref\StringDemo.dll
+E:\HocCSharp\String Demo\String Demo\obj\Debug\net5.0\StringDemo.pdb
+E:\HocCSharp\String Demo\String Demo\obj\Debug\net5.0\StringDemo.genruntimeconfig.cache

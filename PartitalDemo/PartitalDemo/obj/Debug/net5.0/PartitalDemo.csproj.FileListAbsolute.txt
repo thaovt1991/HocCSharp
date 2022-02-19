@@ -1,0 +1,16 @@
+E:\HocCSharp\PartitalDemo\PartitalDemo\bin\Debug\net5.0\PartitalDemo.exe
+E:\HocCSharp\PartitalDemo\PartitalDemo\bin\Debug\net5.0\PartitalDemo.deps.json
+E:\HocCSharp\PartitalDemo\PartitalDemo\bin\Debug\net5.0\PartitalDemo.runtimeconfig.json
+E:\HocCSharp\PartitalDemo\PartitalDemo\bin\Debug\net5.0\PartitalDemo.runtimeconfig.dev.json
+E:\HocCSharp\PartitalDemo\PartitalDemo\bin\Debug\net5.0\PartitalDemo.dll
+E:\HocCSharp\PartitalDemo\PartitalDemo\bin\Debug\net5.0\ref\PartitalDemo.dll
+E:\HocCSharp\PartitalDemo\PartitalDemo\bin\Debug\net5.0\PartitalDemo.pdb
+E:\HocCSharp\PartitalDemo\PartitalDemo\obj\Debug\net5.0\PartitalDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\PartitalDemo\PartitalDemo\obj\Debug\net5.0\PartitalDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\PartitalDemo\PartitalDemo\obj\Debug\net5.0\PartitalDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\PartitalDemo\PartitalDemo\obj\Debug\net5.0\PartitalDemo.AssemblyInfo.cs
+E:\HocCSharp\PartitalDemo\PartitalDemo\obj\Debug\net5.0\PartitalDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\PartitalDemo\PartitalDemo\obj\Debug\net5.0\PartitalDemo.dll
+E:\HocCSharp\PartitalDemo\PartitalDemo\obj\Debug\net5.0\ref\PartitalDemo.dll
+E:\HocCSharp\PartitalDemo\PartitalDemo\obj\Debug\net5.0\PartitalDemo.pdb
+E:\HocCSharp\PartitalDemo\PartitalDemo\obj\Debug\net5.0\PartitalDemo.genruntimeconfig.cache

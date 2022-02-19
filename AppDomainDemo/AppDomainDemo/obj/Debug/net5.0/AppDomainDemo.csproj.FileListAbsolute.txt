@@ -1,0 +1,15 @@
+E:\HocCSharp\AppDomainDemo\AppDomainDemo\bin\Debug\net5.0\AppDomainDemo.exe
+E:\HocCSharp\AppDomainDemo\AppDomainDemo\bin\Debug\net5.0\AppDomainDemo.deps.json
+E:\HocCSharp\AppDomainDemo\AppDomainDemo\bin\Debug\net5.0\AppDomainDemo.runtimeconfig.json
+E:\HocCSharp\AppDomainDemo\AppDomainDemo\bin\Debug\net5.0\AppDomainDemo.runtimeconfig.dev.json
+E:\HocCSharp\AppDomainDemo\AppDomainDemo\bin\Debug\net5.0\AppDomainDemo.dll
+E:\HocCSharp\AppDomainDemo\AppDomainDemo\bin\Debug\net5.0\ref\AppDomainDemo.dll
+E:\HocCSharp\AppDomainDemo\AppDomainDemo\bin\Debug\net5.0\AppDomainDemo.pdb
+E:\HocCSharp\AppDomainDemo\AppDomainDemo\obj\Debug\net5.0\AppDomainDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\AppDomainDemo\AppDomainDemo\obj\Debug\net5.0\AppDomainDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\AppDomainDemo\AppDomainDemo\obj\Debug\net5.0\AppDomainDemo.AssemblyInfo.cs
+E:\HocCSharp\AppDomainDemo\AppDomainDemo\obj\Debug\net5.0\AppDomainDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\AppDomainDemo\AppDomainDemo\obj\Debug\net5.0\AppDomainDemo.dll
+E:\HocCSharp\AppDomainDemo\AppDomainDemo\obj\Debug\net5.0\ref\AppDomainDemo.dll
+E:\HocCSharp\AppDomainDemo\AppDomainDemo\obj\Debug\net5.0\AppDomainDemo.pdb
+E:\HocCSharp\AppDomainDemo\AppDomainDemo\obj\Debug\net5.0\AppDomainDemo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\HocCSharp\PatternMatchingDemo\PatternMatchingDemo\bin\Debug\net5.0\PatternMatchingDemo.exe
+E:\HocCSharp\PatternMatchingDemo\PatternMatchingDemo\bin\Debug\net5.0\PatternMatchingDemo.deps.json
+E:\HocCSharp\PatternMatchingDemo\PatternMatchingDemo\bin\Debug\net5.0\PatternMatchingDemo.runtimeconfig.json
+E:\HocCSharp\PatternMatchingDemo\PatternMatchingDemo\bin\Debug\net5.0\PatternMatchingDemo.runtimeconfig.dev.json
+E:\HocCSharp\PatternMatchingDemo\PatternMatchingDemo\bin\Debug\net5.0\PatternMatchingDemo.dll
+E:\HocCSharp\PatternMatchingDemo\PatternMatchingDemo\bin\Debug\net5.0\ref\PatternMatchingDemo.dll
+E:\HocCSharp\PatternMatchingDemo\PatternMatchingDemo\bin\Debug\net5.0\PatternMatchingDemo.pdb
+E:\HocCSharp\PatternMatchingDemo\PatternMatchingDemo\obj\Debug\net5.0\PatternMatchingDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\PatternMatchingDemo\PatternMatchingDemo\obj\Debug\net5.0\PatternMatchingDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\PatternMatchingDemo\PatternMatchingDemo\obj\Debug\net5.0\PatternMatchingDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\PatternMatchingDemo\PatternMatchingDemo\obj\Debug\net5.0\PatternMatchingDemo.AssemblyInfo.cs
+E:\HocCSharp\PatternMatchingDemo\PatternMatchingDemo\obj\Debug\net5.0\PatternMatchingDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\PatternMatchingDemo\PatternMatchingDemo\obj\Debug\net5.0\PatternMatchingDemo.dll
+E:\HocCSharp\PatternMatchingDemo\PatternMatchingDemo\obj\Debug\net5.0\ref\PatternMatchingDemo.dll
+E:\HocCSharp\PatternMatchingDemo\PatternMatchingDemo\obj\Debug\net5.0\PatternMatchingDemo.pdb
+E:\HocCSharp\PatternMatchingDemo\PatternMatchingDemo\obj\Debug\net5.0\PatternMatchingDemo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\HocCSharp\StaticNonStaticDemo\StaticNonStaticDemo\bin\Debug\net5.0\StaticNonStaticDemo.exe
+E:\HocCSharp\StaticNonStaticDemo\StaticNonStaticDemo\bin\Debug\net5.0\StaticNonStaticDemo.deps.json
+E:\HocCSharp\StaticNonStaticDemo\StaticNonStaticDemo\bin\Debug\net5.0\StaticNonStaticDemo.runtimeconfig.json
+E:\HocCSharp\StaticNonStaticDemo\StaticNonStaticDemo\bin\Debug\net5.0\StaticNonStaticDemo.runtimeconfig.dev.json
+E:\HocCSharp\StaticNonStaticDemo\StaticNonStaticDemo\bin\Debug\net5.0\StaticNonStaticDemo.dll
+E:\HocCSharp\StaticNonStaticDemo\StaticNonStaticDemo\bin\Debug\net5.0\ref\StaticNonStaticDemo.dll
+E:\HocCSharp\StaticNonStaticDemo\StaticNonStaticDemo\bin\Debug\net5.0\StaticNonStaticDemo.pdb
+E:\HocCSharp\StaticNonStaticDemo\StaticNonStaticDemo\obj\Debug\net5.0\StaticNonStaticDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\StaticNonStaticDemo\StaticNonStaticDemo\obj\Debug\net5.0\StaticNonStaticDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\StaticNonStaticDemo\StaticNonStaticDemo\obj\Debug\net5.0\StaticNonStaticDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\StaticNonStaticDemo\StaticNonStaticDemo\obj\Debug\net5.0\StaticNonStaticDemo.AssemblyInfo.cs
+E:\HocCSharp\StaticNonStaticDemo\StaticNonStaticDemo\obj\Debug\net5.0\StaticNonStaticDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\StaticNonStaticDemo\StaticNonStaticDemo\obj\Debug\net5.0\StaticNonStaticDemo.dll
+E:\HocCSharp\StaticNonStaticDemo\StaticNonStaticDemo\obj\Debug\net5.0\ref\StaticNonStaticDemo.dll
+E:\HocCSharp\StaticNonStaticDemo\StaticNonStaticDemo\obj\Debug\net5.0\StaticNonStaticDemo.pdb
+E:\HocCSharp\StaticNonStaticDemo\StaticNonStaticDemo\obj\Debug\net5.0\StaticNonStaticDemo.genruntimeconfig.cache

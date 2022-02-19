@@ -1,0 +1,16 @@
+E:\HocCSharp\Exption\Exption\bin\Debug\net5.0\Exption.exe
+E:\HocCSharp\Exption\Exption\bin\Debug\net5.0\Exption.deps.json
+E:\HocCSharp\Exption\Exption\bin\Debug\net5.0\Exption.runtimeconfig.json
+E:\HocCSharp\Exption\Exption\bin\Debug\net5.0\Exption.runtimeconfig.dev.json
+E:\HocCSharp\Exption\Exption\bin\Debug\net5.0\Exption.dll
+E:\HocCSharp\Exption\Exption\bin\Debug\net5.0\ref\Exption.dll
+E:\HocCSharp\Exption\Exption\bin\Debug\net5.0\Exption.pdb
+E:\HocCSharp\Exption\Exption\obj\Debug\net5.0\Exption.csproj.AssemblyReference.cache
+E:\HocCSharp\Exption\Exption\obj\Debug\net5.0\Exption.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\Exption\Exption\obj\Debug\net5.0\Exption.AssemblyInfoInputs.cache
+E:\HocCSharp\Exption\Exption\obj\Debug\net5.0\Exption.AssemblyInfo.cs
+E:\HocCSharp\Exption\Exption\obj\Debug\net5.0\Exption.csproj.CoreCompileInputs.cache
+E:\HocCSharp\Exption\Exption\obj\Debug\net5.0\Exption.dll
+E:\HocCSharp\Exption\Exption\obj\Debug\net5.0\ref\Exption.dll
+E:\HocCSharp\Exption\Exption\obj\Debug\net5.0\Exption.pdb
+E:\HocCSharp\Exption\Exption\obj\Debug\net5.0\Exption.genruntimeconfig.cache
