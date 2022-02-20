@@ -1,0 +1,16 @@
+E:\HocCSharp\DelegateDemoAnonymous\DelegateDemoAnonymous\bin\Debug\net5.0\DelegateDemoAnonymous.exe
+E:\HocCSharp\DelegateDemoAnonymous\DelegateDemoAnonymous\bin\Debug\net5.0\DelegateDemoAnonymous.deps.json
+E:\HocCSharp\DelegateDemoAnonymous\DelegateDemoAnonymous\bin\Debug\net5.0\DelegateDemoAnonymous.runtimeconfig.json
+E:\HocCSharp\DelegateDemoAnonymous\DelegateDemoAnonymous\bin\Debug\net5.0\DelegateDemoAnonymous.runtimeconfig.dev.json
+E:\HocCSharp\DelegateDemoAnonymous\DelegateDemoAnonymous\bin\Debug\net5.0\DelegateDemoAnonymous.dll
+E:\HocCSharp\DelegateDemoAnonymous\DelegateDemoAnonymous\bin\Debug\net5.0\ref\DelegateDemoAnonymous.dll
+E:\HocCSharp\DelegateDemoAnonymous\DelegateDemoAnonymous\bin\Debug\net5.0\DelegateDemoAnonymous.pdb
+E:\HocCSharp\DelegateDemoAnonymous\DelegateDemoAnonymous\obj\Debug\net5.0\DelegateDemoAnonymous.csproj.AssemblyReference.cache
+E:\HocCSharp\DelegateDemoAnonymous\DelegateDemoAnonymous\obj\Debug\net5.0\DelegateDemoAnonymous.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\DelegateDemoAnonymous\DelegateDemoAnonymous\obj\Debug\net5.0\DelegateDemoAnonymous.AssemblyInfoInputs.cache
+E:\HocCSharp\DelegateDemoAnonymous\DelegateDemoAnonymous\obj\Debug\net5.0\DelegateDemoAnonymous.AssemblyInfo.cs
+E:\HocCSharp\DelegateDemoAnonymous\DelegateDemoAnonymous\obj\Debug\net5.0\DelegateDemoAnonymous.csproj.CoreCompileInputs.cache
+E:\HocCSharp\DelegateDemoAnonymous\DelegateDemoAnonymous\obj\Debug\net5.0\DelegateDemoAnonymous.dll
+E:\HocCSharp\DelegateDemoAnonymous\DelegateDemoAnonymous\obj\Debug\net5.0\ref\DelegateDemoAnonymous.dll
+E:\HocCSharp\DelegateDemoAnonymous\DelegateDemoAnonymous\obj\Debug\net5.0\DelegateDemoAnonymous.pdb
+E:\HocCSharp\DelegateDemoAnonymous\DelegateDemoAnonymous\obj\Debug\net5.0\DelegateDemoAnonymous.genruntimeconfig.cache

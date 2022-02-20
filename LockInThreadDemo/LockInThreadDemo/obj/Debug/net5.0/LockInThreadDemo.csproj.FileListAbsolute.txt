@@ -1,0 +1,16 @@
+E:\HocCSharp\LockInThreadDemo\LockInThreadDemo\bin\Debug\net5.0\LockInThreadDemo.exe
+E:\HocCSharp\LockInThreadDemo\LockInThreadDemo\bin\Debug\net5.0\LockInThreadDemo.deps.json
+E:\HocCSharp\LockInThreadDemo\LockInThreadDemo\bin\Debug\net5.0\LockInThreadDemo.runtimeconfig.json
+E:\HocCSharp\LockInThreadDemo\LockInThreadDemo\bin\Debug\net5.0\LockInThreadDemo.runtimeconfig.dev.json
+E:\HocCSharp\LockInThreadDemo\LockInThreadDemo\bin\Debug\net5.0\LockInThreadDemo.dll
+E:\HocCSharp\LockInThreadDemo\LockInThreadDemo\bin\Debug\net5.0\ref\LockInThreadDemo.dll
+E:\HocCSharp\LockInThreadDemo\LockInThreadDemo\bin\Debug\net5.0\LockInThreadDemo.pdb
+E:\HocCSharp\LockInThreadDemo\LockInThreadDemo\obj\Debug\net5.0\LockInThreadDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\LockInThreadDemo\LockInThreadDemo\obj\Debug\net5.0\LockInThreadDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\LockInThreadDemo\LockInThreadDemo\obj\Debug\net5.0\LockInThreadDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\LockInThreadDemo\LockInThreadDemo\obj\Debug\net5.0\LockInThreadDemo.AssemblyInfo.cs
+E:\HocCSharp\LockInThreadDemo\LockInThreadDemo\obj\Debug\net5.0\LockInThreadDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\LockInThreadDemo\LockInThreadDemo\obj\Debug\net5.0\LockInThreadDemo.dll
+E:\HocCSharp\LockInThreadDemo\LockInThreadDemo\obj\Debug\net5.0\ref\LockInThreadDemo.dll
+E:\HocCSharp\LockInThreadDemo\LockInThreadDemo\obj\Debug\net5.0\LockInThreadDemo.pdb
+E:\HocCSharp\LockInThreadDemo\LockInThreadDemo\obj\Debug\net5.0\LockInThreadDemo.genruntimeconfig.cache

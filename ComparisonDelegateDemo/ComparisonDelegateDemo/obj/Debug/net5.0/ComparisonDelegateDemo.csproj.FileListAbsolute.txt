@@ -1,0 +1,16 @@
+E:\HocCSharp\ComparisonDelegateDemo\ComparisonDelegateDemo\bin\Debug\net5.0\ComparisonDelegateDemo.exe
+E:\HocCSharp\ComparisonDelegateDemo\ComparisonDelegateDemo\bin\Debug\net5.0\ComparisonDelegateDemo.deps.json
+E:\HocCSharp\ComparisonDelegateDemo\ComparisonDelegateDemo\bin\Debug\net5.0\ComparisonDelegateDemo.runtimeconfig.json
+E:\HocCSharp\ComparisonDelegateDemo\ComparisonDelegateDemo\bin\Debug\net5.0\ComparisonDelegateDemo.runtimeconfig.dev.json
+E:\HocCSharp\ComparisonDelegateDemo\ComparisonDelegateDemo\bin\Debug\net5.0\ComparisonDelegateDemo.dll
+E:\HocCSharp\ComparisonDelegateDemo\ComparisonDelegateDemo\bin\Debug\net5.0\ref\ComparisonDelegateDemo.dll
+E:\HocCSharp\ComparisonDelegateDemo\ComparisonDelegateDemo\bin\Debug\net5.0\ComparisonDelegateDemo.pdb
+E:\HocCSharp\ComparisonDelegateDemo\ComparisonDelegateDemo\obj\Debug\net5.0\ComparisonDelegateDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\ComparisonDelegateDemo\ComparisonDelegateDemo\obj\Debug\net5.0\ComparisonDelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\ComparisonDelegateDemo\ComparisonDelegateDemo\obj\Debug\net5.0\ComparisonDelegateDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\ComparisonDelegateDemo\ComparisonDelegateDemo\obj\Debug\net5.0\ComparisonDelegateDemo.AssemblyInfo.cs
+E:\HocCSharp\ComparisonDelegateDemo\ComparisonDelegateDemo\obj\Debug\net5.0\ComparisonDelegateDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\ComparisonDelegateDemo\ComparisonDelegateDemo\obj\Debug\net5.0\ComparisonDelegateDemo.dll
+E:\HocCSharp\ComparisonDelegateDemo\ComparisonDelegateDemo\obj\Debug\net5.0\ref\ComparisonDelegateDemo.dll
+E:\HocCSharp\ComparisonDelegateDemo\ComparisonDelegateDemo\obj\Debug\net5.0\ComparisonDelegateDemo.pdb
+E:\HocCSharp\ComparisonDelegateDemo\ComparisonDelegateDemo\obj\Debug\net5.0\ComparisonDelegateDemo.genruntimeconfig.cache

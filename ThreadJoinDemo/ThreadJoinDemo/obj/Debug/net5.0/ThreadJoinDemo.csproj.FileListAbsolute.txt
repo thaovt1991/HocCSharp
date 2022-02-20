@@ -1,0 +1,16 @@
+E:\HocCSharp\ThreadJoinDemo\ThreadJoinDemo\bin\Debug\net5.0\ThreadJoinDemo.exe
+E:\HocCSharp\ThreadJoinDemo\ThreadJoinDemo\bin\Debug\net5.0\ThreadJoinDemo.deps.json
+E:\HocCSharp\ThreadJoinDemo\ThreadJoinDemo\bin\Debug\net5.0\ThreadJoinDemo.runtimeconfig.json
+E:\HocCSharp\ThreadJoinDemo\ThreadJoinDemo\bin\Debug\net5.0\ThreadJoinDemo.runtimeconfig.dev.json
+E:\HocCSharp\ThreadJoinDemo\ThreadJoinDemo\bin\Debug\net5.0\ThreadJoinDemo.dll
+E:\HocCSharp\ThreadJoinDemo\ThreadJoinDemo\bin\Debug\net5.0\ref\ThreadJoinDemo.dll
+E:\HocCSharp\ThreadJoinDemo\ThreadJoinDemo\bin\Debug\net5.0\ThreadJoinDemo.pdb
+E:\HocCSharp\ThreadJoinDemo\ThreadJoinDemo\obj\Debug\net5.0\ThreadJoinDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\ThreadJoinDemo\ThreadJoinDemo\obj\Debug\net5.0\ThreadJoinDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\ThreadJoinDemo\ThreadJoinDemo\obj\Debug\net5.0\ThreadJoinDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\ThreadJoinDemo\ThreadJoinDemo\obj\Debug\net5.0\ThreadJoinDemo.AssemblyInfo.cs
+E:\HocCSharp\ThreadJoinDemo\ThreadJoinDemo\obj\Debug\net5.0\ThreadJoinDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\ThreadJoinDemo\ThreadJoinDemo\obj\Debug\net5.0\ThreadJoinDemo.dll
+E:\HocCSharp\ThreadJoinDemo\ThreadJoinDemo\obj\Debug\net5.0\ref\ThreadJoinDemo.dll
+E:\HocCSharp\ThreadJoinDemo\ThreadJoinDemo\obj\Debug\net5.0\ThreadJoinDemo.pdb
+E:\HocCSharp\ThreadJoinDemo\ThreadJoinDemo\obj\Debug\net5.0\ThreadJoinDemo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\HocCSharp\ThrowFunction\ThrowFunction\bin\Debug\net5.0\ThrowFunction.exe
+E:\HocCSharp\ThrowFunction\ThrowFunction\bin\Debug\net5.0\ThrowFunction.deps.json
+E:\HocCSharp\ThrowFunction\ThrowFunction\bin\Debug\net5.0\ThrowFunction.runtimeconfig.json
+E:\HocCSharp\ThrowFunction\ThrowFunction\bin\Debug\net5.0\ThrowFunction.runtimeconfig.dev.json
+E:\HocCSharp\ThrowFunction\ThrowFunction\bin\Debug\net5.0\ThrowFunction.dll
+E:\HocCSharp\ThrowFunction\ThrowFunction\bin\Debug\net5.0\ref\ThrowFunction.dll
+E:\HocCSharp\ThrowFunction\ThrowFunction\bin\Debug\net5.0\ThrowFunction.pdb
+E:\HocCSharp\ThrowFunction\ThrowFunction\obj\Debug\net5.0\ThrowFunction.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\ThrowFunction\ThrowFunction\obj\Debug\net5.0\ThrowFunction.AssemblyInfoInputs.cache
+E:\HocCSharp\ThrowFunction\ThrowFunction\obj\Debug\net5.0\ThrowFunction.AssemblyInfo.cs
+E:\HocCSharp\ThrowFunction\ThrowFunction\obj\Debug\net5.0\ThrowFunction.csproj.CoreCompileInputs.cache
+E:\HocCSharp\ThrowFunction\ThrowFunction\obj\Debug\net5.0\ThrowFunction.dll
+E:\HocCSharp\ThrowFunction\ThrowFunction\obj\Debug\net5.0\ref\ThrowFunction.dll
+E:\HocCSharp\ThrowFunction\ThrowFunction\obj\Debug\net5.0\ThrowFunction.pdb
+E:\HocCSharp\ThrowFunction\ThrowFunction\obj\Debug\net5.0\ThrowFunction.genruntimeconfig.cache

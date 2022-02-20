@@ -1,0 +1,16 @@
+E:\HocCSharp\ListCollectionsDemo\ListCollectionsDemo\bin\Debug\net5.0\ListCollectionsDemo.exe
+E:\HocCSharp\ListCollectionsDemo\ListCollectionsDemo\bin\Debug\net5.0\ListCollectionsDemo.deps.json
+E:\HocCSharp\ListCollectionsDemo\ListCollectionsDemo\bin\Debug\net5.0\ListCollectionsDemo.runtimeconfig.json
+E:\HocCSharp\ListCollectionsDemo\ListCollectionsDemo\bin\Debug\net5.0\ListCollectionsDemo.runtimeconfig.dev.json
+E:\HocCSharp\ListCollectionsDemo\ListCollectionsDemo\bin\Debug\net5.0\ListCollectionsDemo.dll
+E:\HocCSharp\ListCollectionsDemo\ListCollectionsDemo\bin\Debug\net5.0\ref\ListCollectionsDemo.dll
+E:\HocCSharp\ListCollectionsDemo\ListCollectionsDemo\bin\Debug\net5.0\ListCollectionsDemo.pdb
+E:\HocCSharp\ListCollectionsDemo\ListCollectionsDemo\obj\Debug\net5.0\ListCollectionsDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\ListCollectionsDemo\ListCollectionsDemo\obj\Debug\net5.0\ListCollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\ListCollectionsDemo\ListCollectionsDemo\obj\Debug\net5.0\ListCollectionsDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\ListCollectionsDemo\ListCollectionsDemo\obj\Debug\net5.0\ListCollectionsDemo.AssemblyInfo.cs
+E:\HocCSharp\ListCollectionsDemo\ListCollectionsDemo\obj\Debug\net5.0\ListCollectionsDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\ListCollectionsDemo\ListCollectionsDemo\obj\Debug\net5.0\ListCollectionsDemo.dll
+E:\HocCSharp\ListCollectionsDemo\ListCollectionsDemo\obj\Debug\net5.0\ref\ListCollectionsDemo.dll
+E:\HocCSharp\ListCollectionsDemo\ListCollectionsDemo\obj\Debug\net5.0\ListCollectionsDemo.pdb
+E:\HocCSharp\ListCollectionsDemo\ListCollectionsDemo\obj\Debug\net5.0\ListCollectionsDemo.genruntimeconfig.cache

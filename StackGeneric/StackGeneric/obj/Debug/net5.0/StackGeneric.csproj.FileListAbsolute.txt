@@ -1,0 +1,16 @@
+E:\HocCSharp\StackGeneric\StackGeneric\obj\Debug\net5.0\StackGeneric.csproj.AssemblyReference.cache
+E:\HocCSharp\StackGeneric\StackGeneric\obj\Debug\net5.0\StackGeneric.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\StackGeneric\StackGeneric\obj\Debug\net5.0\StackGeneric.AssemblyInfoInputs.cache
+E:\HocCSharp\StackGeneric\StackGeneric\obj\Debug\net5.0\StackGeneric.AssemblyInfo.cs
+E:\HocCSharp\StackGeneric\StackGeneric\obj\Debug\net5.0\StackGeneric.csproj.CoreCompileInputs.cache
+E:\HocCSharp\StackGeneric\StackGeneric\bin\Debug\net5.0\StackGeneric.exe
+E:\HocCSharp\StackGeneric\StackGeneric\bin\Debug\net5.0\StackGeneric.deps.json
+E:\HocCSharp\StackGeneric\StackGeneric\bin\Debug\net5.0\StackGeneric.runtimeconfig.json
+E:\HocCSharp\StackGeneric\StackGeneric\bin\Debug\net5.0\StackGeneric.runtimeconfig.dev.json
+E:\HocCSharp\StackGeneric\StackGeneric\bin\Debug\net5.0\StackGeneric.dll
+E:\HocCSharp\StackGeneric\StackGeneric\bin\Debug\net5.0\ref\StackGeneric.dll
+E:\HocCSharp\StackGeneric\StackGeneric\bin\Debug\net5.0\StackGeneric.pdb
+E:\HocCSharp\StackGeneric\StackGeneric\obj\Debug\net5.0\StackGeneric.dll
+E:\HocCSharp\StackGeneric\StackGeneric\obj\Debug\net5.0\ref\StackGeneric.dll
+E:\HocCSharp\StackGeneric\StackGeneric\obj\Debug\net5.0\StackGeneric.pdb
+E:\HocCSharp\StackGeneric\StackGeneric\obj\Debug\net5.0\StackGeneric.genruntimeconfig.cache

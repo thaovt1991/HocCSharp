@@ -1,0 +1,16 @@
+E:\HocCSharp\ExptionHandleingDemo\ExptionHandleingDemo\bin\Debug\net5.0\ExptionHandleingDemo.exe
+E:\HocCSharp\ExptionHandleingDemo\ExptionHandleingDemo\bin\Debug\net5.0\ExptionHandleingDemo.deps.json
+E:\HocCSharp\ExptionHandleingDemo\ExptionHandleingDemo\bin\Debug\net5.0\ExptionHandleingDemo.runtimeconfig.json
+E:\HocCSharp\ExptionHandleingDemo\ExptionHandleingDemo\bin\Debug\net5.0\ExptionHandleingDemo.runtimeconfig.dev.json
+E:\HocCSharp\ExptionHandleingDemo\ExptionHandleingDemo\bin\Debug\net5.0\ExptionHandleingDemo.dll
+E:\HocCSharp\ExptionHandleingDemo\ExptionHandleingDemo\bin\Debug\net5.0\ref\ExptionHandleingDemo.dll
+E:\HocCSharp\ExptionHandleingDemo\ExptionHandleingDemo\bin\Debug\net5.0\ExptionHandleingDemo.pdb
+E:\HocCSharp\ExptionHandleingDemo\ExptionHandleingDemo\obj\Debug\net5.0\ExptionHandleingDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\ExptionHandleingDemo\ExptionHandleingDemo\obj\Debug\net5.0\ExptionHandleingDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\ExptionHandleingDemo\ExptionHandleingDemo\obj\Debug\net5.0\ExptionHandleingDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\ExptionHandleingDemo\ExptionHandleingDemo\obj\Debug\net5.0\ExptionHandleingDemo.AssemblyInfo.cs
+E:\HocCSharp\ExptionHandleingDemo\ExptionHandleingDemo\obj\Debug\net5.0\ExptionHandleingDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\ExptionHandleingDemo\ExptionHandleingDemo\obj\Debug\net5.0\ExptionHandleingDemo.dll
+E:\HocCSharp\ExptionHandleingDemo\ExptionHandleingDemo\obj\Debug\net5.0\ref\ExptionHandleingDemo.dll
+E:\HocCSharp\ExptionHandleingDemo\ExptionHandleingDemo\obj\Debug\net5.0\ExptionHandleingDemo.pdb
+E:\HocCSharp\ExptionHandleingDemo\ExptionHandleingDemo\obj\Debug\net5.0\ExptionHandleingDemo.genruntimeconfig.cache

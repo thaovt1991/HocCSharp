@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MulticastDelegateDemo/1.0.0": {
+        "runtime": {
+          "MulticastDelegateDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MulticastDelegateDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

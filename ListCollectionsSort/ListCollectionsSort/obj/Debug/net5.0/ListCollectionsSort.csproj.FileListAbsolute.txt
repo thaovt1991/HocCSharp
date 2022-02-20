@@ -1,0 +1,15 @@
+E:\HocCSharp\ListCollectionsSort\ListCollectionsSort\bin\Debug\net5.0\ListCollectionsSort.exe
+E:\HocCSharp\ListCollectionsSort\ListCollectionsSort\bin\Debug\net5.0\ListCollectionsSort.deps.json
+E:\HocCSharp\ListCollectionsSort\ListCollectionsSort\bin\Debug\net5.0\ListCollectionsSort.runtimeconfig.json
+E:\HocCSharp\ListCollectionsSort\ListCollectionsSort\bin\Debug\net5.0\ListCollectionsSort.runtimeconfig.dev.json
+E:\HocCSharp\ListCollectionsSort\ListCollectionsSort\bin\Debug\net5.0\ListCollectionsSort.dll
+E:\HocCSharp\ListCollectionsSort\ListCollectionsSort\bin\Debug\net5.0\ref\ListCollectionsSort.dll
+E:\HocCSharp\ListCollectionsSort\ListCollectionsSort\bin\Debug\net5.0\ListCollectionsSort.pdb
+E:\HocCSharp\ListCollectionsSort\ListCollectionsSort\obj\Debug\net5.0\ListCollectionsSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\ListCollectionsSort\ListCollectionsSort\obj\Debug\net5.0\ListCollectionsSort.AssemblyInfoInputs.cache
+E:\HocCSharp\ListCollectionsSort\ListCollectionsSort\obj\Debug\net5.0\ListCollectionsSort.AssemblyInfo.cs
+E:\HocCSharp\ListCollectionsSort\ListCollectionsSort\obj\Debug\net5.0\ListCollectionsSort.csproj.CoreCompileInputs.cache
+E:\HocCSharp\ListCollectionsSort\ListCollectionsSort\obj\Debug\net5.0\ListCollectionsSort.dll
+E:\HocCSharp\ListCollectionsSort\ListCollectionsSort\obj\Debug\net5.0\ref\ListCollectionsSort.dll
+E:\HocCSharp\ListCollectionsSort\ListCollectionsSort\obj\Debug\net5.0\ListCollectionsSort.pdb
+E:\HocCSharp\ListCollectionsSort\ListCollectionsSort\obj\Debug\net5.0\ListCollectionsSort.genruntimeconfig.cache

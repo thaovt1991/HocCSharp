@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LockInThreadDemo/1.0.0": {
+        "runtime": {
+          "LockInThreadDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LockInThreadDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

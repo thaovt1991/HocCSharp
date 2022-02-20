@@ -1,0 +1,16 @@
+E:\HocCSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\net5.0\ExceptionHandlingDemo.exe
+E:\HocCSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\net5.0\ExceptionHandlingDemo.deps.json
+E:\HocCSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\net5.0\ExceptionHandlingDemo.runtimeconfig.json
+E:\HocCSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\net5.0\ExceptionHandlingDemo.runtimeconfig.dev.json
+E:\HocCSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\net5.0\ExceptionHandlingDemo.dll
+E:\HocCSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\net5.0\ref\ExceptionHandlingDemo.dll
+E:\HocCSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\net5.0\ExceptionHandlingDemo.pdb
+E:\HocCSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net5.0\ExceptionHandlingDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net5.0\ExceptionHandlingDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net5.0\ExceptionHandlingDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net5.0\ExceptionHandlingDemo.AssemblyInfo.cs
+E:\HocCSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net5.0\ExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net5.0\ExceptionHandlingDemo.dll
+E:\HocCSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net5.0\ref\ExceptionHandlingDemo.dll
+E:\HocCSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net5.0\ExceptionHandlingDemo.pdb
+E:\HocCSharp\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\net5.0\ExceptionHandlingDemo.genruntimeconfig.cache

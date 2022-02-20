@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ThreadJoinDemo/1.0.0": {
+        "runtime": {
+          "ThreadJoinDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreadJoinDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

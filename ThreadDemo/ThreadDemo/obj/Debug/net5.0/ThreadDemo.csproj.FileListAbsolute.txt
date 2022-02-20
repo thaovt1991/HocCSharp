@@ -1,0 +1,16 @@
+E:\HocCSharp\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ThreadDemo.exe
+E:\HocCSharp\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ThreadDemo.deps.json
+E:\HocCSharp\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ThreadDemo.runtimeconfig.json
+E:\HocCSharp\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ThreadDemo.runtimeconfig.dev.json
+E:\HocCSharp\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ThreadDemo.dll
+E:\HocCSharp\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ref\ThreadDemo.dll
+E:\HocCSharp\ThreadDemo\ThreadDemo\bin\Debug\net5.0\ThreadDemo.pdb
+E:\HocCSharp\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.AssemblyInfo.cs
+E:\HocCSharp\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.dll
+E:\HocCSharp\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ref\ThreadDemo.dll
+E:\HocCSharp\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.pdb
+E:\HocCSharp\ThreadDemo\ThreadDemo\obj\Debug\net5.0\ThreadDemo.genruntimeconfig.cache

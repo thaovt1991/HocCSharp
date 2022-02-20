@@ -1,0 +1,16 @@
+E:\HocCSharp\ArrayListDemo\ArrayListDemo\bin\Debug\net5.0\ArrayListDemo.exe
+E:\HocCSharp\ArrayListDemo\ArrayListDemo\bin\Debug\net5.0\ArrayListDemo.deps.json
+E:\HocCSharp\ArrayListDemo\ArrayListDemo\bin\Debug\net5.0\ArrayListDemo.runtimeconfig.json
+E:\HocCSharp\ArrayListDemo\ArrayListDemo\bin\Debug\net5.0\ArrayListDemo.runtimeconfig.dev.json
+E:\HocCSharp\ArrayListDemo\ArrayListDemo\bin\Debug\net5.0\ArrayListDemo.dll
+E:\HocCSharp\ArrayListDemo\ArrayListDemo\bin\Debug\net5.0\ref\ArrayListDemo.dll
+E:\HocCSharp\ArrayListDemo\ArrayListDemo\bin\Debug\net5.0\ArrayListDemo.pdb
+E:\HocCSharp\ArrayListDemo\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\ArrayListDemo\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\ArrayListDemo\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\ArrayListDemo\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.AssemblyInfo.cs
+E:\HocCSharp\ArrayListDemo\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\ArrayListDemo\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.dll
+E:\HocCSharp\ArrayListDemo\ArrayListDemo\obj\Debug\net5.0\ref\ArrayListDemo.dll
+E:\HocCSharp\ArrayListDemo\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.pdb
+E:\HocCSharp\ArrayListDemo\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.genruntimeconfig.cache

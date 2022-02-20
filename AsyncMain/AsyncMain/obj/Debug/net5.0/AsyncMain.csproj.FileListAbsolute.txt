@@ -1,0 +1,16 @@
+E:\HocCSharp\AsyncMain\AsyncMain\bin\Debug\net5.0\AsyncMain.exe
+E:\HocCSharp\AsyncMain\AsyncMain\bin\Debug\net5.0\AsyncMain.deps.json
+E:\HocCSharp\AsyncMain\AsyncMain\bin\Debug\net5.0\AsyncMain.runtimeconfig.json
+E:\HocCSharp\AsyncMain\AsyncMain\bin\Debug\net5.0\AsyncMain.runtimeconfig.dev.json
+E:\HocCSharp\AsyncMain\AsyncMain\bin\Debug\net5.0\AsyncMain.dll
+E:\HocCSharp\AsyncMain\AsyncMain\bin\Debug\net5.0\ref\AsyncMain.dll
+E:\HocCSharp\AsyncMain\AsyncMain\bin\Debug\net5.0\AsyncMain.pdb
+E:\HocCSharp\AsyncMain\AsyncMain\obj\Debug\net5.0\AsyncMain.csproj.AssemblyReference.cache
+E:\HocCSharp\AsyncMain\AsyncMain\obj\Debug\net5.0\AsyncMain.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\AsyncMain\AsyncMain\obj\Debug\net5.0\AsyncMain.AssemblyInfoInputs.cache
+E:\HocCSharp\AsyncMain\AsyncMain\obj\Debug\net5.0\AsyncMain.AssemblyInfo.cs
+E:\HocCSharp\AsyncMain\AsyncMain\obj\Debug\net5.0\AsyncMain.csproj.CoreCompileInputs.cache
+E:\HocCSharp\AsyncMain\AsyncMain\obj\Debug\net5.0\AsyncMain.dll
+E:\HocCSharp\AsyncMain\AsyncMain\obj\Debug\net5.0\ref\AsyncMain.dll
+E:\HocCSharp\AsyncMain\AsyncMain\obj\Debug\net5.0\AsyncMain.pdb
+E:\HocCSharp\AsyncMain\AsyncMain\obj\Debug\net5.0\AsyncMain.genruntimeconfig.cache

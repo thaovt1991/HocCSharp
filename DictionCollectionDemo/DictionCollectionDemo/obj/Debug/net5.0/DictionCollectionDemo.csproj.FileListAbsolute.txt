@@ -1,0 +1,15 @@
+E:\HocCSharp\DictionCollectionDemo\DictionCollectionDemo\bin\Debug\net5.0\DictionCollectionDemo.exe
+E:\HocCSharp\DictionCollectionDemo\DictionCollectionDemo\bin\Debug\net5.0\DictionCollectionDemo.deps.json
+E:\HocCSharp\DictionCollectionDemo\DictionCollectionDemo\bin\Debug\net5.0\DictionCollectionDemo.runtimeconfig.json
+E:\HocCSharp\DictionCollectionDemo\DictionCollectionDemo\bin\Debug\net5.0\DictionCollectionDemo.runtimeconfig.dev.json
+E:\HocCSharp\DictionCollectionDemo\DictionCollectionDemo\bin\Debug\net5.0\DictionCollectionDemo.dll
+E:\HocCSharp\DictionCollectionDemo\DictionCollectionDemo\bin\Debug\net5.0\ref\DictionCollectionDemo.dll
+E:\HocCSharp\DictionCollectionDemo\DictionCollectionDemo\bin\Debug\net5.0\DictionCollectionDemo.pdb
+E:\HocCSharp\DictionCollectionDemo\DictionCollectionDemo\obj\Debug\net5.0\DictionCollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\DictionCollectionDemo\DictionCollectionDemo\obj\Debug\net5.0\DictionCollectionDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\DictionCollectionDemo\DictionCollectionDemo\obj\Debug\net5.0\DictionCollectionDemo.AssemblyInfo.cs
+E:\HocCSharp\DictionCollectionDemo\DictionCollectionDemo\obj\Debug\net5.0\DictionCollectionDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\DictionCollectionDemo\DictionCollectionDemo\obj\Debug\net5.0\DictionCollectionDemo.dll
+E:\HocCSharp\DictionCollectionDemo\DictionCollectionDemo\obj\Debug\net5.0\ref\DictionCollectionDemo.dll
+E:\HocCSharp\DictionCollectionDemo\DictionCollectionDemo\obj\Debug\net5.0\DictionCollectionDemo.pdb
+E:\HocCSharp\DictionCollectionDemo\DictionCollectionDemo\obj\Debug\net5.0\DictionCollectionDemo.genruntimeconfig.cache

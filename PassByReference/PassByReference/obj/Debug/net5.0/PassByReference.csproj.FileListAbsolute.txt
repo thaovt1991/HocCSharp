@@ -1,0 +1,16 @@
+E:\HocCSharp\PassByReference\PassByReference\bin\Debug\net5.0\PassByReference.exe
+E:\HocCSharp\PassByReference\PassByReference\bin\Debug\net5.0\PassByReference.deps.json
+E:\HocCSharp\PassByReference\PassByReference\bin\Debug\net5.0\PassByReference.runtimeconfig.json
+E:\HocCSharp\PassByReference\PassByReference\bin\Debug\net5.0\PassByReference.runtimeconfig.dev.json
+E:\HocCSharp\PassByReference\PassByReference\bin\Debug\net5.0\PassByReference.dll
+E:\HocCSharp\PassByReference\PassByReference\bin\Debug\net5.0\ref\PassByReference.dll
+E:\HocCSharp\PassByReference\PassByReference\bin\Debug\net5.0\PassByReference.pdb
+E:\HocCSharp\PassByReference\PassByReference\obj\Debug\net5.0\PassByReference.csproj.AssemblyReference.cache
+E:\HocCSharp\PassByReference\PassByReference\obj\Debug\net5.0\PassByReference.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\PassByReference\PassByReference\obj\Debug\net5.0\PassByReference.AssemblyInfoInputs.cache
+E:\HocCSharp\PassByReference\PassByReference\obj\Debug\net5.0\PassByReference.AssemblyInfo.cs
+E:\HocCSharp\PassByReference\PassByReference\obj\Debug\net5.0\PassByReference.csproj.CoreCompileInputs.cache
+E:\HocCSharp\PassByReference\PassByReference\obj\Debug\net5.0\PassByReference.dll
+E:\HocCSharp\PassByReference\PassByReference\obj\Debug\net5.0\ref\PassByReference.dll
+E:\HocCSharp\PassByReference\PassByReference\obj\Debug\net5.0\PassByReference.pdb
+E:\HocCSharp\PassByReference\PassByReference\obj\Debug\net5.0\PassByReference.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\HocCSharp\MulticastDelegateDemo\MulticastDelegateDemo\bin\Debug\net5.0\MulticastDelegateDemo.exe
+E:\HocCSharp\MulticastDelegateDemo\MulticastDelegateDemo\bin\Debug\net5.0\MulticastDelegateDemo.deps.json
+E:\HocCSharp\MulticastDelegateDemo\MulticastDelegateDemo\bin\Debug\net5.0\MulticastDelegateDemo.runtimeconfig.json
+E:\HocCSharp\MulticastDelegateDemo\MulticastDelegateDemo\bin\Debug\net5.0\MulticastDelegateDemo.runtimeconfig.dev.json
+E:\HocCSharp\MulticastDelegateDemo\MulticastDelegateDemo\bin\Debug\net5.0\MulticastDelegateDemo.dll
+E:\HocCSharp\MulticastDelegateDemo\MulticastDelegateDemo\bin\Debug\net5.0\ref\MulticastDelegateDemo.dll
+E:\HocCSharp\MulticastDelegateDemo\MulticastDelegateDemo\bin\Debug\net5.0\MulticastDelegateDemo.pdb
+E:\HocCSharp\MulticastDelegateDemo\MulticastDelegateDemo\obj\Debug\net5.0\MulticastDelegateDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\MulticastDelegateDemo\MulticastDelegateDemo\obj\Debug\net5.0\MulticastDelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\MulticastDelegateDemo\MulticastDelegateDemo\obj\Debug\net5.0\MulticastDelegateDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\MulticastDelegateDemo\MulticastDelegateDemo\obj\Debug\net5.0\MulticastDelegateDemo.AssemblyInfo.cs
+E:\HocCSharp\MulticastDelegateDemo\MulticastDelegateDemo\obj\Debug\net5.0\MulticastDelegateDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\MulticastDelegateDemo\MulticastDelegateDemo\obj\Debug\net5.0\MulticastDelegateDemo.dll
+E:\HocCSharp\MulticastDelegateDemo\MulticastDelegateDemo\obj\Debug\net5.0\ref\MulticastDelegateDemo.dll
+E:\HocCSharp\MulticastDelegateDemo\MulticastDelegateDemo\obj\Debug\net5.0\MulticastDelegateDemo.pdb
+E:\HocCSharp\MulticastDelegateDemo\MulticastDelegateDemo\obj\Debug\net5.0\MulticastDelegateDemo.genruntimeconfig.cache

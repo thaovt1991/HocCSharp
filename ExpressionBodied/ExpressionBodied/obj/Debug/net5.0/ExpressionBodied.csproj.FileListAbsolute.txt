@@ -1,0 +1,16 @@
+E:\HocCSharp\ExpressionBodied\ExpressionBodied\bin\Debug\net5.0\ExpressionBodied.exe
+E:\HocCSharp\ExpressionBodied\ExpressionBodied\bin\Debug\net5.0\ExpressionBodied.deps.json
+E:\HocCSharp\ExpressionBodied\ExpressionBodied\bin\Debug\net5.0\ExpressionBodied.runtimeconfig.json
+E:\HocCSharp\ExpressionBodied\ExpressionBodied\bin\Debug\net5.0\ExpressionBodied.runtimeconfig.dev.json
+E:\HocCSharp\ExpressionBodied\ExpressionBodied\bin\Debug\net5.0\ExpressionBodied.dll
+E:\HocCSharp\ExpressionBodied\ExpressionBodied\bin\Debug\net5.0\ref\ExpressionBodied.dll
+E:\HocCSharp\ExpressionBodied\ExpressionBodied\bin\Debug\net5.0\ExpressionBodied.pdb
+E:\HocCSharp\ExpressionBodied\ExpressionBodied\obj\Debug\net5.0\ExpressionBodied.csproj.AssemblyReference.cache
+E:\HocCSharp\ExpressionBodied\ExpressionBodied\obj\Debug\net5.0\ExpressionBodied.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\ExpressionBodied\ExpressionBodied\obj\Debug\net5.0\ExpressionBodied.AssemblyInfoInputs.cache
+E:\HocCSharp\ExpressionBodied\ExpressionBodied\obj\Debug\net5.0\ExpressionBodied.AssemblyInfo.cs
+E:\HocCSharp\ExpressionBodied\ExpressionBodied\obj\Debug\net5.0\ExpressionBodied.csproj.CoreCompileInputs.cache
+E:\HocCSharp\ExpressionBodied\ExpressionBodied\obj\Debug\net5.0\ExpressionBodied.dll
+E:\HocCSharp\ExpressionBodied\ExpressionBodied\obj\Debug\net5.0\ref\ExpressionBodied.dll
+E:\HocCSharp\ExpressionBodied\ExpressionBodied\obj\Debug\net5.0\ExpressionBodied.pdb
+E:\HocCSharp\ExpressionBodied\ExpressionBodied\obj\Debug\net5.0\ExpressionBodied.genruntimeconfig.cache

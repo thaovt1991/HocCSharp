@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ThrowFunction/1.0.0": {
+        "runtime": {
+          "ThrowFunction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThrowFunction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

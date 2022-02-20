@@ -1,0 +1,16 @@
+E:\HocCSharp\ThreadPool\ThreadPool\obj\Debug\net5.0\ThreadPool.csproj.AssemblyReference.cache
+E:\HocCSharp\ThreadPool\ThreadPool\obj\Debug\net5.0\ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\ThreadPool\ThreadPool\obj\Debug\net5.0\ThreadPool.AssemblyInfoInputs.cache
+E:\HocCSharp\ThreadPool\ThreadPool\obj\Debug\net5.0\ThreadPool.AssemblyInfo.cs
+E:\HocCSharp\ThreadPool\ThreadPool\obj\Debug\net5.0\ThreadPool.csproj.CoreCompileInputs.cache
+E:\HocCSharp\ThreadPool\ThreadPool\bin\Debug\net5.0\ThreadPool.exe
+E:\HocCSharp\ThreadPool\ThreadPool\bin\Debug\net5.0\ThreadPool.deps.json
+E:\HocCSharp\ThreadPool\ThreadPool\bin\Debug\net5.0\ThreadPool.runtimeconfig.json
+E:\HocCSharp\ThreadPool\ThreadPool\bin\Debug\net5.0\ThreadPool.runtimeconfig.dev.json
+E:\HocCSharp\ThreadPool\ThreadPool\bin\Debug\net5.0\ThreadPool.dll
+E:\HocCSharp\ThreadPool\ThreadPool\bin\Debug\net5.0\ref\ThreadPool.dll
+E:\HocCSharp\ThreadPool\ThreadPool\bin\Debug\net5.0\ThreadPool.pdb
+E:\HocCSharp\ThreadPool\ThreadPool\obj\Debug\net5.0\ThreadPool.dll
+E:\HocCSharp\ThreadPool\ThreadPool\obj\Debug\net5.0\ref\ThreadPool.dll
+E:\HocCSharp\ThreadPool\ThreadPool\obj\Debug\net5.0\ThreadPool.pdb
+E:\HocCSharp\ThreadPool\ThreadPool\obj\Debug\net5.0\ThreadPool.genruntimeconfig.cache

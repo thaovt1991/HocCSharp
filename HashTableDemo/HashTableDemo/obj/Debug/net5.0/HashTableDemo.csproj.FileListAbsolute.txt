@@ -1,0 +1,16 @@
+E:\HocCSharp\HashTableDemo\HashTableDemo\bin\Debug\net5.0\HashTableDemo.exe
+E:\HocCSharp\HashTableDemo\HashTableDemo\bin\Debug\net5.0\HashTableDemo.deps.json
+E:\HocCSharp\HashTableDemo\HashTableDemo\bin\Debug\net5.0\HashTableDemo.runtimeconfig.json
+E:\HocCSharp\HashTableDemo\HashTableDemo\bin\Debug\net5.0\HashTableDemo.runtimeconfig.dev.json
+E:\HocCSharp\HashTableDemo\HashTableDemo\bin\Debug\net5.0\HashTableDemo.dll
+E:\HocCSharp\HashTableDemo\HashTableDemo\bin\Debug\net5.0\ref\HashTableDemo.dll
+E:\HocCSharp\HashTableDemo\HashTableDemo\bin\Debug\net5.0\HashTableDemo.pdb
+E:\HocCSharp\HashTableDemo\HashTableDemo\obj\Debug\net5.0\HashTableDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\HashTableDemo\HashTableDemo\obj\Debug\net5.0\HashTableDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\HashTableDemo\HashTableDemo\obj\Debug\net5.0\HashTableDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\HashTableDemo\HashTableDemo\obj\Debug\net5.0\HashTableDemo.AssemblyInfo.cs
+E:\HocCSharp\HashTableDemo\HashTableDemo\obj\Debug\net5.0\HashTableDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\HashTableDemo\HashTableDemo\obj\Debug\net5.0\HashTableDemo.dll
+E:\HocCSharp\HashTableDemo\HashTableDemo\obj\Debug\net5.0\ref\HashTableDemo.dll
+E:\HocCSharp\HashTableDemo\HashTableDemo\obj\Debug\net5.0\HashTableDemo.pdb
+E:\HocCSharp\HashTableDemo\HashTableDemo\obj\Debug\net5.0\HashTableDemo.genruntimeconfig.cache

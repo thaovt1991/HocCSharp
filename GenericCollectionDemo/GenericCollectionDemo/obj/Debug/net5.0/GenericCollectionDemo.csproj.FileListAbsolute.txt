@@ -1,0 +1,16 @@
+E:\HocCSharp\GenericCollectionDemo\GenericCollectionDemo\bin\Debug\net5.0\GenericCollectionDemo.exe
+E:\HocCSharp\GenericCollectionDemo\GenericCollectionDemo\bin\Debug\net5.0\GenericCollectionDemo.deps.json
+E:\HocCSharp\GenericCollectionDemo\GenericCollectionDemo\bin\Debug\net5.0\GenericCollectionDemo.runtimeconfig.json
+E:\HocCSharp\GenericCollectionDemo\GenericCollectionDemo\bin\Debug\net5.0\GenericCollectionDemo.runtimeconfig.dev.json
+E:\HocCSharp\GenericCollectionDemo\GenericCollectionDemo\bin\Debug\net5.0\GenericCollectionDemo.dll
+E:\HocCSharp\GenericCollectionDemo\GenericCollectionDemo\bin\Debug\net5.0\ref\GenericCollectionDemo.dll
+E:\HocCSharp\GenericCollectionDemo\GenericCollectionDemo\bin\Debug\net5.0\GenericCollectionDemo.pdb
+E:\HocCSharp\GenericCollectionDemo\GenericCollectionDemo\obj\Debug\net5.0\GenericCollectionDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\GenericCollectionDemo\GenericCollectionDemo\obj\Debug\net5.0\GenericCollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\GenericCollectionDemo\GenericCollectionDemo\obj\Debug\net5.0\GenericCollectionDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\GenericCollectionDemo\GenericCollectionDemo\obj\Debug\net5.0\GenericCollectionDemo.AssemblyInfo.cs
+E:\HocCSharp\GenericCollectionDemo\GenericCollectionDemo\obj\Debug\net5.0\GenericCollectionDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\GenericCollectionDemo\GenericCollectionDemo\obj\Debug\net5.0\GenericCollectionDemo.dll
+E:\HocCSharp\GenericCollectionDemo\GenericCollectionDemo\obj\Debug\net5.0\ref\GenericCollectionDemo.dll
+E:\HocCSharp\GenericCollectionDemo\GenericCollectionDemo\obj\Debug\net5.0\GenericCollectionDemo.pdb
+E:\HocCSharp\GenericCollectionDemo\GenericCollectionDemo\obj\Debug\net5.0\GenericCollectionDemo.genruntimeconfig.cache

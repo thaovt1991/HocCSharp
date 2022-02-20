@@ -1,0 +1,16 @@
+E:\HocCSharp\TaskResultDemo\TaskResultDemo\bin\Debug\net5.0\TaskResultDemo.exe
+E:\HocCSharp\TaskResultDemo\TaskResultDemo\bin\Debug\net5.0\TaskResultDemo.deps.json
+E:\HocCSharp\TaskResultDemo\TaskResultDemo\bin\Debug\net5.0\TaskResultDemo.runtimeconfig.json
+E:\HocCSharp\TaskResultDemo\TaskResultDemo\bin\Debug\net5.0\TaskResultDemo.runtimeconfig.dev.json
+E:\HocCSharp\TaskResultDemo\TaskResultDemo\bin\Debug\net5.0\TaskResultDemo.dll
+E:\HocCSharp\TaskResultDemo\TaskResultDemo\bin\Debug\net5.0\ref\TaskResultDemo.dll
+E:\HocCSharp\TaskResultDemo\TaskResultDemo\bin\Debug\net5.0\TaskResultDemo.pdb
+E:\HocCSharp\TaskResultDemo\TaskResultDemo\obj\Debug\net5.0\TaskResultDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\TaskResultDemo\TaskResultDemo\obj\Debug\net5.0\TaskResultDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\TaskResultDemo\TaskResultDemo\obj\Debug\net5.0\TaskResultDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\TaskResultDemo\TaskResultDemo\obj\Debug\net5.0\TaskResultDemo.AssemblyInfo.cs
+E:\HocCSharp\TaskResultDemo\TaskResultDemo\obj\Debug\net5.0\TaskResultDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\TaskResultDemo\TaskResultDemo\obj\Debug\net5.0\TaskResultDemo.dll
+E:\HocCSharp\TaskResultDemo\TaskResultDemo\obj\Debug\net5.0\ref\TaskResultDemo.dll
+E:\HocCSharp\TaskResultDemo\TaskResultDemo\obj\Debug\net5.0\TaskResultDemo.pdb
+E:\HocCSharp\TaskResultDemo\TaskResultDemo\obj\Debug\net5.0\TaskResultDemo.genruntimeconfig.cache

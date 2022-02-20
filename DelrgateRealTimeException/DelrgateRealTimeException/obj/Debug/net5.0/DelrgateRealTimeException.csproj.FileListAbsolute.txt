@@ -1,0 +1,15 @@
+E:\HocCSharp\DelrgateRealTimeException\DelrgateRealTimeException\bin\Debug\net5.0\DelrgateRealTimeException.exe
+E:\HocCSharp\DelrgateRealTimeException\DelrgateRealTimeException\bin\Debug\net5.0\DelrgateRealTimeException.deps.json
+E:\HocCSharp\DelrgateRealTimeException\DelrgateRealTimeException\bin\Debug\net5.0\DelrgateRealTimeException.runtimeconfig.json
+E:\HocCSharp\DelrgateRealTimeException\DelrgateRealTimeException\bin\Debug\net5.0\DelrgateRealTimeException.runtimeconfig.dev.json
+E:\HocCSharp\DelrgateRealTimeException\DelrgateRealTimeException\bin\Debug\net5.0\DelrgateRealTimeException.dll
+E:\HocCSharp\DelrgateRealTimeException\DelrgateRealTimeException\bin\Debug\net5.0\ref\DelrgateRealTimeException.dll
+E:\HocCSharp\DelrgateRealTimeException\DelrgateRealTimeException\bin\Debug\net5.0\DelrgateRealTimeException.pdb
+E:\HocCSharp\DelrgateRealTimeException\DelrgateRealTimeException\obj\Debug\net5.0\DelrgateRealTimeException.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\DelrgateRealTimeException\DelrgateRealTimeException\obj\Debug\net5.0\DelrgateRealTimeException.AssemblyInfoInputs.cache
+E:\HocCSharp\DelrgateRealTimeException\DelrgateRealTimeException\obj\Debug\net5.0\DelrgateRealTimeException.AssemblyInfo.cs
+E:\HocCSharp\DelrgateRealTimeException\DelrgateRealTimeException\obj\Debug\net5.0\DelrgateRealTimeException.csproj.CoreCompileInputs.cache
+E:\HocCSharp\DelrgateRealTimeException\DelrgateRealTimeException\obj\Debug\net5.0\DelrgateRealTimeException.dll
+E:\HocCSharp\DelrgateRealTimeException\DelrgateRealTimeException\obj\Debug\net5.0\ref\DelrgateRealTimeException.dll
+E:\HocCSharp\DelrgateRealTimeException\DelrgateRealTimeException\obj\Debug\net5.0\DelrgateRealTimeException.pdb
+E:\HocCSharp\DelrgateRealTimeException\DelrgateRealTimeException\obj\Debug\net5.0\DelrgateRealTimeException.genruntimeconfig.cache

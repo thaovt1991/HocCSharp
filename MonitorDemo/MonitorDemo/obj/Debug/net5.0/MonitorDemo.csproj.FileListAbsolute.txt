@@ -1,0 +1,16 @@
+E:\HocCSharp\MonitorDemo\MonitorDemo\bin\Debug\net5.0\MonitorDemo.exe
+E:\HocCSharp\MonitorDemo\MonitorDemo\bin\Debug\net5.0\MonitorDemo.deps.json
+E:\HocCSharp\MonitorDemo\MonitorDemo\bin\Debug\net5.0\MonitorDemo.runtimeconfig.json
+E:\HocCSharp\MonitorDemo\MonitorDemo\bin\Debug\net5.0\MonitorDemo.runtimeconfig.dev.json
+E:\HocCSharp\MonitorDemo\MonitorDemo\bin\Debug\net5.0\MonitorDemo.dll
+E:\HocCSharp\MonitorDemo\MonitorDemo\bin\Debug\net5.0\ref\MonitorDemo.dll
+E:\HocCSharp\MonitorDemo\MonitorDemo\bin\Debug\net5.0\MonitorDemo.pdb
+E:\HocCSharp\MonitorDemo\MonitorDemo\obj\Debug\net5.0\MonitorDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\MonitorDemo\MonitorDemo\obj\Debug\net5.0\MonitorDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\MonitorDemo\MonitorDemo\obj\Debug\net5.0\MonitorDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\MonitorDemo\MonitorDemo\obj\Debug\net5.0\MonitorDemo.AssemblyInfo.cs
+E:\HocCSharp\MonitorDemo\MonitorDemo\obj\Debug\net5.0\MonitorDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\MonitorDemo\MonitorDemo\obj\Debug\net5.0\MonitorDemo.dll
+E:\HocCSharp\MonitorDemo\MonitorDemo\obj\Debug\net5.0\ref\MonitorDemo.dll
+E:\HocCSharp\MonitorDemo\MonitorDemo\obj\Debug\net5.0\MonitorDemo.pdb
+E:\HocCSharp\MonitorDemo\MonitorDemo\obj\Debug\net5.0\MonitorDemo.genruntimeconfig.cache

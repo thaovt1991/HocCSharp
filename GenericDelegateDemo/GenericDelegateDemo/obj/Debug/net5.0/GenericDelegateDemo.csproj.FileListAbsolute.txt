@@ -1,0 +1,16 @@
+E:\HocCSharp\GenericDelegateDemo\GenericDelegateDemo\bin\Debug\net5.0\GenericDelegateDemo.exe
+E:\HocCSharp\GenericDelegateDemo\GenericDelegateDemo\bin\Debug\net5.0\GenericDelegateDemo.deps.json
+E:\HocCSharp\GenericDelegateDemo\GenericDelegateDemo\bin\Debug\net5.0\GenericDelegateDemo.runtimeconfig.json
+E:\HocCSharp\GenericDelegateDemo\GenericDelegateDemo\bin\Debug\net5.0\GenericDelegateDemo.runtimeconfig.dev.json
+E:\HocCSharp\GenericDelegateDemo\GenericDelegateDemo\bin\Debug\net5.0\GenericDelegateDemo.dll
+E:\HocCSharp\GenericDelegateDemo\GenericDelegateDemo\bin\Debug\net5.0\ref\GenericDelegateDemo.dll
+E:\HocCSharp\GenericDelegateDemo\GenericDelegateDemo\bin\Debug\net5.0\GenericDelegateDemo.pdb
+E:\HocCSharp\GenericDelegateDemo\GenericDelegateDemo\obj\Debug\net5.0\GenericDelegateDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\GenericDelegateDemo\GenericDelegateDemo\obj\Debug\net5.0\GenericDelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\GenericDelegateDemo\GenericDelegateDemo\obj\Debug\net5.0\GenericDelegateDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\GenericDelegateDemo\GenericDelegateDemo\obj\Debug\net5.0\GenericDelegateDemo.AssemblyInfo.cs
+E:\HocCSharp\GenericDelegateDemo\GenericDelegateDemo\obj\Debug\net5.0\GenericDelegateDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\GenericDelegateDemo\GenericDelegateDemo\obj\Debug\net5.0\GenericDelegateDemo.dll
+E:\HocCSharp\GenericDelegateDemo\GenericDelegateDemo\obj\Debug\net5.0\ref\GenericDelegateDemo.dll
+E:\HocCSharp\GenericDelegateDemo\GenericDelegateDemo\obj\Debug\net5.0\GenericDelegateDemo.pdb
+E:\HocCSharp\GenericDelegateDemo\GenericDelegateDemo\obj\Debug\net5.0\GenericDelegateDemo.genruntimeconfig.cache

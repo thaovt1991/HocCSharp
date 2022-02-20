@@ -1,0 +1,16 @@
+E:\HocCSharp\MutexDemo\MutexDemo\bin\Debug\net5.0\MutexDemo.exe
+E:\HocCSharp\MutexDemo\MutexDemo\bin\Debug\net5.0\MutexDemo.deps.json
+E:\HocCSharp\MutexDemo\MutexDemo\bin\Debug\net5.0\MutexDemo.runtimeconfig.json
+E:\HocCSharp\MutexDemo\MutexDemo\bin\Debug\net5.0\MutexDemo.runtimeconfig.dev.json
+E:\HocCSharp\MutexDemo\MutexDemo\bin\Debug\net5.0\MutexDemo.dll
+E:\HocCSharp\MutexDemo\MutexDemo\bin\Debug\net5.0\ref\MutexDemo.dll
+E:\HocCSharp\MutexDemo\MutexDemo\bin\Debug\net5.0\MutexDemo.pdb
+E:\HocCSharp\MutexDemo\MutexDemo\obj\Debug\net5.0\MutexDemo.csproj.AssemblyReference.cache
+E:\HocCSharp\MutexDemo\MutexDemo\obj\Debug\net5.0\MutexDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\MutexDemo\MutexDemo\obj\Debug\net5.0\MutexDemo.AssemblyInfoInputs.cache
+E:\HocCSharp\MutexDemo\MutexDemo\obj\Debug\net5.0\MutexDemo.AssemblyInfo.cs
+E:\HocCSharp\MutexDemo\MutexDemo\obj\Debug\net5.0\MutexDemo.csproj.CoreCompileInputs.cache
+E:\HocCSharp\MutexDemo\MutexDemo\obj\Debug\net5.0\MutexDemo.dll
+E:\HocCSharp\MutexDemo\MutexDemo\obj\Debug\net5.0\ref\MutexDemo.dll
+E:\HocCSharp\MutexDemo\MutexDemo\obj\Debug\net5.0\MutexDemo.pdb
+E:\HocCSharp\MutexDemo\MutexDemo\obj\Debug\net5.0\MutexDemo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\HocCSharp\DeadlockThread\DeadlockThread\bin\Debug\net5.0\DeadlockThread.exe
+E:\HocCSharp\DeadlockThread\DeadlockThread\bin\Debug\net5.0\DeadlockThread.deps.json
+E:\HocCSharp\DeadlockThread\DeadlockThread\bin\Debug\net5.0\DeadlockThread.runtimeconfig.json
+E:\HocCSharp\DeadlockThread\DeadlockThread\bin\Debug\net5.0\DeadlockThread.runtimeconfig.dev.json
+E:\HocCSharp\DeadlockThread\DeadlockThread\bin\Debug\net5.0\DeadlockThread.dll
+E:\HocCSharp\DeadlockThread\DeadlockThread\bin\Debug\net5.0\ref\DeadlockThread.dll
+E:\HocCSharp\DeadlockThread\DeadlockThread\bin\Debug\net5.0\DeadlockThread.pdb
+E:\HocCSharp\DeadlockThread\DeadlockThread\obj\Debug\net5.0\DeadlockThread.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\DeadlockThread\DeadlockThread\obj\Debug\net5.0\DeadlockThread.AssemblyInfoInputs.cache
+E:\HocCSharp\DeadlockThread\DeadlockThread\obj\Debug\net5.0\DeadlockThread.AssemblyInfo.cs
+E:\HocCSharp\DeadlockThread\DeadlockThread\obj\Debug\net5.0\DeadlockThread.csproj.CoreCompileInputs.cache
+E:\HocCSharp\DeadlockThread\DeadlockThread\obj\Debug\net5.0\DeadlockThread.dll
+E:\HocCSharp\DeadlockThread\DeadlockThread\obj\Debug\net5.0\ref\DeadlockThread.dll
+E:\HocCSharp\DeadlockThread\DeadlockThread\obj\Debug\net5.0\DeadlockThread.pdb
+E:\HocCSharp\DeadlockThread\DeadlockThread\obj\Debug\net5.0\DeadlockThread.genruntimeconfig.cache
+E:\HocCSharp\DeadlockThread\DeadlockThread\obj\Debug\net5.0\DeadlockThread.csproj.AssemblyReference.cache

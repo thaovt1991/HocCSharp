@@ -1,0 +1,16 @@
+E:\HocCSharp\QueueGeneric\QueueGeneric\obj\Debug\net5.0\QueueGeneric.csproj.AssemblyReference.cache
+E:\HocCSharp\QueueGeneric\QueueGeneric\obj\Debug\net5.0\QueueGeneric.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocCSharp\QueueGeneric\QueueGeneric\obj\Debug\net5.0\QueueGeneric.AssemblyInfoInputs.cache
+E:\HocCSharp\QueueGeneric\QueueGeneric\obj\Debug\net5.0\QueueGeneric.AssemblyInfo.cs
+E:\HocCSharp\QueueGeneric\QueueGeneric\obj\Debug\net5.0\QueueGeneric.csproj.CoreCompileInputs.cache
+E:\HocCSharp\QueueGeneric\QueueGeneric\bin\Debug\net5.0\QueueGeneric.exe
+E:\HocCSharp\QueueGeneric\QueueGeneric\bin\Debug\net5.0\QueueGeneric.deps.json
+E:\HocCSharp\QueueGeneric\QueueGeneric\bin\Debug\net5.0\QueueGeneric.runtimeconfig.json
+E:\HocCSharp\QueueGeneric\QueueGeneric\bin\Debug\net5.0\QueueGeneric.runtimeconfig.dev.json
+E:\HocCSharp\QueueGeneric\QueueGeneric\bin\Debug\net5.0\QueueGeneric.dll
+E:\HocCSharp\QueueGeneric\QueueGeneric\bin\Debug\net5.0\ref\QueueGeneric.dll
+E:\HocCSharp\QueueGeneric\QueueGeneric\bin\Debug\net5.0\QueueGeneric.pdb
+E:\HocCSharp\QueueGeneric\QueueGeneric\obj\Debug\net5.0\QueueGeneric.dll
+E:\HocCSharp\QueueGeneric\QueueGeneric\obj\Debug\net5.0\ref\QueueGeneric.dll
+E:\HocCSharp\QueueGeneric\QueueGeneric\obj\Debug\net5.0\QueueGeneric.pdb
+E:\HocCSharp\QueueGeneric\QueueGeneric\obj\Debug\net5.0\QueueGeneric.genruntimeconfig.cache
